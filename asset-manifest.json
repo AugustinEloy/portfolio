@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.63917482.css",
-    "main.js": "/portfolio/static/js/main.bdc4bac0.js",
+    "main.css": "/portfolio/static/css/main.dceeeb8d.css",
+    "main.js": "/portfolio/static/js/main.2406c073.js",
     "static/js/453.b6cbbb23.chunk.js": "/portfolio/static/js/453.b6cbbb23.chunk.js",
     "static/media/impression.png": "/portfolio/static/media/impression.3fe41445aefc722a741b.png",
     "static/media/Screenshot 2024-09-15 at 19-13-22 Booki.png": "/portfolio/static/media/Screenshot 2024-09-15 at 19-13-22 Booki.edd370dc2ab9a6ebd4aa.png",
     "static/media/Screenshot 2024-09-15 at 19-15-14 Sophie Bluel - Architecte dintérieur.png": "/portfolio/static/media/Screenshot 2024-09-15 at 19-15-14 Sophie Bluel - Architecte dintérieur.d6be15954abb3df1e52e.png",
     "static/media/Screenshot 2024-09-15 at 19-14-33 Ohmyfood.png": "/portfolio/static/media/Screenshot 2024-09-15 at 19-14-33 Ohmyfood.44632b88e694179f7c2b.png",
-    "static/media/IMG_2062.jpg": "/portfolio/static/media/IMG_2062.fd48d7f6c5f53d2f552d.jpg",
     "static/media/software-developer-6521720_1920.jpg": "/portfolio/static/media/software-developer-6521720_1920.245e17fff03c87d075a6.jpg",
+    "static/media/Screenshot 2024-10-07 at 14-10-40 React App.avif": "/portfolio/static/media/Screenshot 2024-10-07 at 14-10-40 React App.ed2d49774e9e3fac4457.avif",
     "index.html": "/portfolio/index.html",
-    "main.63917482.css.map": "/portfolio/static/css/main.63917482.css.map",
-    "main.bdc4bac0.js.map": "/portfolio/static/js/main.bdc4bac0.js.map",
+    "main.dceeeb8d.css.map": "/portfolio/static/css/main.dceeeb8d.css.map",
+    "main.2406c073.js.map": "/portfolio/static/js/main.2406c073.js.map",
     "453.b6cbbb23.chunk.js.map": "/portfolio/static/js/453.b6cbbb23.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.63917482.css",
-    "static/js/main.bdc4bac0.js"
+    "static/css/main.dceeeb8d.css",
+    "static/js/main.2406c073.js"
   ]
 }
